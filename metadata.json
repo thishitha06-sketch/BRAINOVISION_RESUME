@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Builder",
+  "description": "A professional Resume Builder featuring live responsive templates, custom PDF/print layouts, offline-first backup/restore, and secure Gemini AI summary generators and experience refiners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
